@@ -1,6 +1,6 @@
 {
   "name": "HandlebarsHelpers",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A small collection of useful helpers for Handlebars.js",
   "main": "src/helpers.js",
   "directories": {
@@ -20,7 +20,7 @@
   "author": "Dan Harper",
   "license": "WTFPL",
   "dependencies": {
-    "handlebars": "^4.0.0"
+    "handlebars": "^4.0.13"
   },
   "devDependencies": {
     "chai": "^4.2.0",
